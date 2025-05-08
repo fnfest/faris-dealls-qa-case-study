@@ -14,3 +14,7 @@ Challenge 2: UI Automation - Web Scenarios
 === Custom Commands ===
 
 - Located in `cypress/support/commands.js`
+
+npm install
+npx cypress open
+
