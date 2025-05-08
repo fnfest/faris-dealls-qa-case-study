@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+.env.local
